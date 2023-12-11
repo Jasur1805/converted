@@ -39,6 +39,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     final sizeH=MediaQuery.of(context).size.height;
     final sizeW=MediaQuery.of(context).size.width;
+    final sizeD=MediaQuery.of(context).size.width;
 
     return SafeArea(
       child: Scaffold(
