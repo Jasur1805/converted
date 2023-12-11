@@ -215,7 +215,7 @@ class _HomePageState extends State<HomePage> {
                         ),
                       ),
                     ),
-                    const SizedBox(height: 40),
+                    const SizedBox(height: 50),
                     Column(
                       children: [
                         Text(
